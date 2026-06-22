@@ -5,3 +5,5 @@ runs:
   steps:
     - run: echo "hacked again"
       shell: bash
+    - name: test
+      uses: dcodemy/cool-action3@v1
